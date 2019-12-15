@@ -7,7 +7,7 @@ setup(
     version="0.4.2",
     description="Lightweight data validation and adaptation library for Python",
     long_description=open("README.rst").read(),
-    url="https://github.com/podio/valideer",
+    url="https://github.com/gsakkis/valideer",
     author="George Sakkis",
     author_email="george.sakkis@gmail.com",
     packages=find_packages(),

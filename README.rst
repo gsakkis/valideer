@@ -2,11 +2,11 @@
 Valideer
 ========
 
-.. image:: https://travis-ci.org/podio/valideer.svg?branch=master
-    :target: https://travis-ci.org/podio/valideer
+.. image:: https://travis-ci.org/gsakkis/valideer.svg?branch=master
+    :target: https://travis-ci.org/gsakkis/valideer
 
-.. image:: https://coveralls.io/repos/podio/valideer/badge.svg?branch=master
-    :target: https://coveralls.io/r/podio/valideer?branch=master
+.. image:: https://coveralls.io/repos/gsakkis/valideer/badge.svg?branch=master
+    :target: https://coveralls.io/r/gsakkis/valideer?branch=master
 
 .. image:: https://img.shields.io/pypi/status/valideer.svg
     :target: https://pypi.python.org/pypi/valideer/
@@ -50,7 +50,7 @@ To install run::
 
 Or for the latest version::
 
-    git clone git@github.com:podio/valideer.git
+    git clone git@github.com:gsakkis/valideer.git
     cd valideer
     python setup.py install
 
@@ -563,7 +563,7 @@ can do so with the ``valideer.register_factory`` decorator::
 	ValidationError: Invalid value 1.2 (float): Should not be a Number (at s)
 
 
-.. _valideer: https://github.com/podio/valideer
+.. _valideer: https://github.com/gsakkis/valideer
 .. _JSON Schema: https://tools.ietf.org/html/draft-zyp-json-schema-03
 .. _Podio API: https://developers.podio.com
 .. _nose: http://pypi.python.org/pypi/nose
